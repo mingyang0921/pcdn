@@ -28,5 +28,9 @@
 - edge服务器
   1. 接收sdk获取数据包请求，返回数据包
   2. httpclient获取源站数据
-  
+
+## 开源库
+- https://github.com/coturn/coturn  #stun服务器
+- https://github.com/skywind3000/kcp #udp可靠传输
+- 
 
